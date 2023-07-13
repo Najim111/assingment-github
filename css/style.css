@@ -217,3 +217,33 @@ img{
     margin: 48px 16px 121px 300px;
     border-radius: 8px;
 }
+/* flower style */
+.flower{
+    background: #111010;
+    
+}
+.flower-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+.shop{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+.flowerp{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flower-p{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
+}
