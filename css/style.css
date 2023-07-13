@@ -180,3 +180,40 @@ img{
     margin-left: 20px;
     
 }
+/* input sstyle */
+.input{
+    margin: 128px 240px;
+}
+.input-img{
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 449px;
+}
+.deals-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+
+}
+.deals-p{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.email-tex{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 23px 516px 22px 22px;
+    border: 0;
+    background: #FFF;
+    margin: 48px 16px 121px 300px;
+    border-radius: 8px;
+}
